@@ -3,7 +3,7 @@ README
 
 #Import tidy data set into R:
 
-1. Download the GACD_ASSN_Tidy_Data.txt
+1. Download the GACD_ASSN_Tidy_Data.txt and copy it to the data folder inside your working directory
 2. Use the following command to load the dataset into R
 ```
 read.table("./data/GACD_ASSN_Tidy_Data.txt", sep="\t")
